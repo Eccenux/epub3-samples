@@ -5,7 +5,7 @@
 		<dc:identifier id="id">http://www.gutenberg.org/ebooks/25545</dc:identifier>
 		<meta property="dcterms:modified">2010-02-17T04:39:13Z</meta>
 
-		<dc:title id="t1">Children's Literature</dc:title>
+		<dc:title id="t1">(H) Children's Literature</dc:title>
 		<meta refines="#t1" property="title-type">main</meta>
 		<meta refines="#t1" property="display-seq">1</meta>
 
